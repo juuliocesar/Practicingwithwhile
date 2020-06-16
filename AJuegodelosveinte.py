@@ -11,6 +11,7 @@ entrada = input("Pulse intro para lanzar el Dado. Pulse otra tecla e Intro para 
 
 while entrada == "":
     dado = randrange(1,7)
+    suma = suma + dado
     print(f"Tirada: {dado}", f"Suma: {suma}")
     entrada = input("Pulse intro para lanzar el Dado. Pulse otra tecla e Intro para Terminar: ")
 
