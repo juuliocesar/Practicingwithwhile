@@ -1,0 +1,41 @@
+commit 2c9f5392b81996dfef68b0a006cb34ccf3b4bcfb
+Author: jc <jcbb1995@hotmail.com>
+Date:   Wed Jun 17 12:30:10 2020 -0500
+
+    Se elimino la carpeta Soriano con el fichero
+
+commit 5fe3b9d0a68035f61c746d339ce997ffe13bc142
+Author: jc <jcbb1995@hotmail.com>
+Date:   Wed Jun 17 12:26:50 2020 -0500
+
+    Se agrego la carpeta Soriano con un fichero adentro
+
+commit 960d245c7623d39a937da7f1ac7a620d00aca2f0
+Author: jc <jcbb1995@hotmail.com>
+Date:   Wed Jun 17 12:23:34 2020 -0500
+
+    Se cambio de nombre al fichero
+
+commit f8d2f12cc26178d8c8bc7eff9e1e3f24b890a556
+Author: jc <jcbb1995@hotmail.com>
+Date:   Tue Jun 16 19:27:38 2020 -0500
+
+    Se cambio la parte final
+
+commit 0d946e4e68ccdaa4212eeaccdc1c3249a9c15e5b
+Author: jc <jcbb1995@hotmail.com>
+Date:   Tue Jun 16 17:16:01 2020 -0500
+
+    Se agrego un segundo jugador
+
+commit bb5200f2b1ebd90addd1b8aee0092692b8e7b7f4
+Author: jc <jcbb1995@hotmail.com>
+Date:   Tue Jun 16 17:11:50 2020 -0500
+
+    Se edito el programa para que imprima la suma de los valores de los dados que el jugador va lanzando
+
+commit bd14b5354b88a0a144a65f785f39b0833255668a
+Author: jc <jcbb1995@hotmail.com>
+Date:   Tue Jun 16 17:07:26 2020 -0500
+
+    1er commit: Se agrego el archivo AJuegodelosveinte.py
