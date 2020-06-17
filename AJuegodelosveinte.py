@@ -28,4 +28,4 @@ elif suma1<suma2:
     print("Ha ganado el jugador 2")
     
 else:
-    print("¡EMPATE!")
+    print("¡HA SIDO UN EMPATE!")
